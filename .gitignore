@@ -1,0 +1,11 @@
+.vs
+token.txt
+bin
+obj
+packages
+Properties
+*.config
+*.csproj
+*.sln
+*.pfx
+*.user
